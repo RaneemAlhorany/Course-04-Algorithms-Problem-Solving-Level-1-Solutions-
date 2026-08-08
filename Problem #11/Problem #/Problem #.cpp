@@ -8,12 +8,11 @@ enum e_result
 	Pass  
 };
 
-int  ReadMark(int &Mark , int index)
+void ReadMark(int &Mark , int index)
 {
 
 	cout << "Enter Mark: "<< index << endl;
 	cin >> Mark;
-	return Mark;
 }
 
 
