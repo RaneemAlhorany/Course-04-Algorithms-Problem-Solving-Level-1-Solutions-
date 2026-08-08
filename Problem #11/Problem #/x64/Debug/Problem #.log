@@ -1,0 +1,4 @@
+﻿  Problem #.cpp
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(34,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(61,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Problem #.vcxproj -> D:\study\abu hadhoud\Problem #\x64\Debug\Problem #.exe
