@@ -3,12 +3,11 @@
 using namespace std;
 
 
-int  ReadMark(int &Mark , int index)
+void  ReadMark(int &Mark , int index)
 {
 
 	cout << "Enter Mark: " << endl;
 	cin >> Mark;
-	return Mark;
 }
 
 void ReadMultipleMarks(int& num1, int& num2, int& num3)
