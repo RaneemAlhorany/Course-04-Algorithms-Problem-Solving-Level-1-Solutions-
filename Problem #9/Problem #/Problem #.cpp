@@ -3,12 +3,11 @@
 using namespace std;
 
 
-int  ReadNumber(int &number)
+void  ReadNumber(int &number)
 {
 
 	cout << "Enter Number: " << endl;
 	cin >> number;
-	return number;
 }
 
 void ReadNumbers(int& num1, int& num2, int& num3)
