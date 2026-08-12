@@ -1,0 +1,4 @@
+﻿  Problem #.cpp
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(20,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(22,37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Problem #.vcxproj -> D:\study\abu hadhoud\Problem #\x64\Debug\Problem #.exe
