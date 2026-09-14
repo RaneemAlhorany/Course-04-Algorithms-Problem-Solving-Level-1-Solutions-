@@ -1,0 +1,9 @@
+﻿  Problem #.cpp
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(30,10): warning C4305: 'return': truncation from 'double' to 'float'
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(32,10): warning C4305: 'return': truncation from 'double' to 'float'
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(34,10): warning C4305: 'return': truncation from 'double' to 'float'
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(36,10): warning C4305: 'return': truncation from 'double' to 'float'
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(47,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(69,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(71,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Problem #.vcxproj -> D:\study\abu hadhoud\Problem #\x64\Debug\Problem #.exe
