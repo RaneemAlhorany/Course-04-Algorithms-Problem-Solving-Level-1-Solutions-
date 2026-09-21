@@ -1,0 +1,4 @@
+﻿  Problem #.cpp
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(32,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\study\abu hadhoud\Problem #\Problem #\Problem #.cpp(33,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Problem #.vcxproj -> D:\study\abu hadhoud\Problem #\x64\Debug\Problem #.exe
